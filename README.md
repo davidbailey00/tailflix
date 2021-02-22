@@ -13,3 +13,7 @@ npx tailflix /path/to/log.log
 ## why
 
 Im having A Moment
+
+## contributing
+
+![This is a Children's Playground. Please do not throw your rubbish inside](https://pbs.twimg.com/media/Eu16cBfWgAEcS78?format=jpg&name=large)
